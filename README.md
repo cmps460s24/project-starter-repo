@@ -1,1 +1,1 @@
-# CMPS 460 Homework Repository. Each homework should be in its own sub-folder (i.e., hw1 and hw2)
+# CMPS 460 Project Repository
